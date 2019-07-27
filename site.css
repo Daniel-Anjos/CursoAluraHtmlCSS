@@ -21,3 +21,27 @@ h2{
 p{
     text-align: justify;
 }
+
+blockquote{
+    background-color: lightblue; 
+}
+
+aside{
+    background-color: mediumseagreen;
+    color: #f2fffc;
+}
+
+aside a{
+    color:inherit;
+    font-family: "Open Sans Condensed", sans-serif
+}
+
+footer{
+    background-color: black;
+    color: lightgray
+}
+
+main a{
+    color: #851944;
+}
+
